@@ -1,4 +1,5 @@
 package com.example.msproducto.service.Impl;
+
 import com.example.msproducto.entity.Producto;
 import com.example.msproducto.repository.ProductoRepository;
 import com.example.msproducto.service.ProductoService;
@@ -7,13 +8,15 @@ import org.springframework.stereotype.Service;
 
 import java.util.List;
 import java.util.Optional;
-@Service
 
+@Service
 public class ProductoServiceImpl implements ProductoService {
     @Autowired
     private ProductoRepository productoRepository;
 
+
     @Override
+
     public List<Producto> listar() {
         return productoRepository.findAll();
     }
