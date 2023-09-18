@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a4aad50-d8da-47ed-8ab8-e61edd5fb7d0" name="Changes" comment="producto">
+      <change afterPath="$PROJECT_DIR$/ms-producto-service.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ms-producto/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-producto/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ms-producto/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-producto/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +67,7 @@
       <workItem from="1693832492231" duration="5512000" />
       <workItem from="1694895511265" duration="263000" />
       <workItem from="1694895889343" duration="2521000" />
-      <workItem from="1695001045878" duration="299000" />
+      <workItem from="1695001045878" duration="814000" />
     </task>
     <task id="LOCAL-00001" summary="producto">
       <option name="closed" value="true" />
