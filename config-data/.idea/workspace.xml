@@ -4,20 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a4aad50-d8da-47ed-8ab8-e61edd5fb7d0" name="Changes" comment="cambio">
-      <change afterPath="$PROJECT_DIR$/ms-producto-service.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ms-producto/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/fbba1818-8997-4a12-96f5-0a5b36d1c818.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/fbba1818-8997-4a12-96f5-0a5b36d1c818.xml" afterDir="false" />
+    <list default="true" id="5a4aad50-d8da-47ed-8ab8-e61edd5fb7d0" name="Changes" comment="producto">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ms-producto/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-producto/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ms-producto/src/main/java/com/example/msproducto/MsProductoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-producto/src/main/java/com/example/msproducto/MsProductoApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ms-producto/src/main/java/com/example/msproducto/controller/ProductoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-producto/src/main/java/com/example/msproducto/controller/ProductoController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ms-producto/src/main/java/com/example/msproducto/entity/Producto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-producto/src/main/java/com/example/msproducto/entity/Producto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ms-producto/src/main/java/com/example/msproducto/repository/ProductoRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-producto/src/main/java/com/example/msproducto/repository/ProductoRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ms-producto/src/main/java/com/example/msproducto/service/Impl/ProductoServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-producto/src/main/java/com/example/msproducto/service/Impl/ProductoServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ms-producto/src/main/java/com/example/msproducto/service/ProductoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-producto/src/main/java/com/example/msproducto/service/ProductoService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ms-producto/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ms-producto/src/test/java/com/example/msproducto/MsProductoApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-producto/src/test/java/com/example/msproducto/MsProductoApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-producto/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-producto/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,8 +67,18 @@
       <workItem from="1693752907557" duration="1315000" />
       <workItem from="1693832492231" duration="5512000" />
       <workItem from="1694895511265" duration="263000" />
-      <workItem from="1694895889343" duration="696000" />
+      <workItem from="1694895889343" duration="2521000" />
+      <workItem from="1695001045878" duration="299000" />
     </task>
+    <task id="LOCAL-00001" summary="producto">
+      <option name="closed" value="true" />
+      <created>1694896636328</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694896636328</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,6 +86,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="cambio" />
-    <option name="LAST_COMMIT_MESSAGE" value="cambio" />
+    <MESSAGE value="producto" />
+    <option name="LAST_COMMIT_MESSAGE" value="producto" />
   </component>
 </project>
