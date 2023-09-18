@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a4aad50-d8da-47ed-8ab8-e61edd5fb7d0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/fbba1818-8997-4a12-96f5-0a5b36d1c818.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/fbba1818-8997-4a12-96f5-0a5b36d1c818/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/fbba1818-8997-4a12-96f5-0a5b36d1c818/storage_v2/_src_/schema/ms_catalogo.78GPKg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/fbba1818-8997-4a12-96f5-0a5b36d1c818/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/fbba1818-8997-4a12-96f5-0a5b36d1c818/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ms-catalogo-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ms-catalogo-service.yml" afterDir="false" />
+    <list default="true" id="5a4aad50-d8da-47ed-8ab8-e61edd5fb7d0" name="Changes" comment="producto">
+      <change afterPath="$PROJECT_DIR$/ms-producto-service.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,29 +26,32 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2UrW3Vi3HdZ3yoIcGe3r3CH9a7l" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "ms-config-server",
-    "last_opened_file_path": "/Users/gary/Desktop/DAD-2023-2/config-data",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/gary/Desktop/Practice/DAD-2023-2/config-data&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -62,11 +61,31 @@
       <option name="presentableId" value="Default" />
       <updated>1693697981087</updated>
       <workItem from="1693697983222" duration="720000" />
-      <workItem from="1693703404990" duration="1466000" />
+      <workItem from="1693703404990" duration="2223000" />
+      <workItem from="1693750998054" duration="188000" />
+      <workItem from="1693752907557" duration="1315000" />
+      <workItem from="1693832492231" duration="5512000" />
+      <workItem from="1694895511265" duration="263000" />
+      <workItem from="1694895889343" duration="2521000" />
+      <workItem from="1695001045878" duration="814000" />
     </task>
+    <task id="LOCAL-00001" summary="producto">
+      <option name="closed" value="true" />
+      <created>1694896636328</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694896636328</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="cambio" />
+    <MESSAGE value="producto" />
+    <option name="LAST_COMMIT_MESSAGE" value="producto" />
   </component>
 </project>
