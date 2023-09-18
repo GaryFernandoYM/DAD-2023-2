@@ -13,7 +13,6 @@ public class MsProductoApplication {
     public static void main(String[] args) {
         SpringApplication.run(MsProductoApplication.class, args);
     }
-
     @Bean
     public OpenAPI customOpenAPI() {
         return new OpenAPI().info(new Info()

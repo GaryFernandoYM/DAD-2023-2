@@ -12,10 +12,9 @@ public class Producto {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Integer id;
-    private String nombre;
-    private String apellido;
-    private String direccion;
-    private String correo;
-    private String dni;
-    private Integer telefono;
+    private String nombre_producto;
+    private String descripcion;
+    private Float precio_unitario;
+    private String stock;
+
 }
